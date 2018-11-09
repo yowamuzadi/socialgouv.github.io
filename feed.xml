@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0">
       <title>L'actu de l'incubateur des ministères sociaux</title>
-      <updated>Wed Nov 07 2018 13:27:27 GMT+0000 (Coordinated Universal Time)</updated>
+      <updated>Fri Nov 09 2018 14:54:44 GMT+0000 (Coordinated Universal Time)</updated>
       <channel>
         <title>L'actu de l'incubateur des ministères sociaux</title>
         <link>https://incubateur.social.gouv.fr/actus</link>
         <description>L'incubateur des ministères sociaux...</description>
         <language>fr</language>
         
+  <item>
+    <title>Code du travail numérique : Jury de selection des EIG</title>
+    <pubDate>8 Novembre 2018</pubDate>
+    <link>https://incubateur.social.gouv.fr/actus#8 Novembre 2018</link>
+    <description><![CDATA[
+Hier a eu lieu la journée de selection des candidats au programme <a target="_blank" href="http://entrepreneur-interet-general.etalab.gouv.fr">"Entrepreneur d'intérêt général" promo 2019</a> pour notre défi <a target="_blank" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html">"Explocode"</a>.
+<br/><br/>
+Assistés des EIG de la promo 2018, d'experts techniques Etalab et de collègues d'autres défis, nous avons eu la chance d'auditionner plusieurs candidats aussi compétents que determinés pour aider notre équipe à **rendre le droit du travail plus lisible** dès le 1er Janvier 2020.
+<br/><br/>
+Deux EIG nous rejoindront donc début 2019, et commenceront leur mission par une immersion dans les services des DIRECCTE en région, où ils pourront mieux comprendre les attentes des usagers et des agents, et en profiter pour compléter notre stock de données qui nous permettrons d'améliorer notre modèle d'intelligence artificelle pour la compréhension des questions posées par les usagers.
+]]></description>
+  </item>
+  
+
   <item>
     <title>WorkInFrance : plus de 1000 dossiers ont été déposés 🍾</title>
     <pubDate>14 Septembre 2018</pubDate>
