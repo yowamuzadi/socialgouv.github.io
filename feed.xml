@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0">
       <title>L'actu de l'incubateur des ministères sociaux</title>
-      <updated>Wed Nov 28 2018 11:18:33 GMT+0000 (Coordinated Universal Time)</updated>
+      <updated>Thu Nov 29 2018 16:39:34 GMT+0000 (Coordinated Universal Time)</updated>
       <channel>
         <title>L'actu de l'incubateur des ministères sociaux</title>
         <link>https://incubateur.social.gouv.fr/actus</link>
@@ -26,6 +26,26 @@
     Regardez la vidéo de présentation d’e-MJPM : 
     <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x6x9sqq" allowfullscreen allow="autoplay"></iframe>
     </p>
+    ]]></description>
+  </item>
+  
+
+  <item>
+    <title>release 1.4 - Twinkle Cookie</title>
+    <pubDate>16 Novembre 2018</pubDate>
+    <link>https://incubateur.social.gouv.fr/actus#16 Novembre 2018</link>
+    <description><![CDATA[<p>Une nouvelle version du prototype du site du Code du travail numérique a été déployée sur <a href="https://codedutravail-dev.num.social.gouv.fr">codedutravail-dev.num.social.gouv.fr</a></p>
+      <p>Cette nouvelle version propose notamment :</p>
+      <ul>
+         <li>Affichage des dates fiches ministère</li>
+         <li>Search facetting</li>
+         <li>Modal Feedback</li>
+         <li>PoC Indemnités licenciement + convention collective "chimie"</li>
+         <li>Ajout modèles de courriers</li>
+         <li><a href="https://github.com/SocialGouv/code-du-travail-numerique/commits/75fc7c473d344b48ca18e6f5ebbd62b6e2446c0f" target="_blank">details des changements</a></li>
+      </ul>
+      <p>📚 Le code source est disponible sur GitHub : <a href="https://github.com/SocialGouv/code-du-travail-explorer">code-du-travail-explorer</a></p>
+      <p>💬 Des remarques ? <a href="mailto:contact@codedutravail.beta.gouv.fr">contact@codedutravail.beta.gouv.fr</a></p>
     ]]></description>
   </item>
   
