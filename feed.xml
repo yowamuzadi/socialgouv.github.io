@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0">
       <title>L'actu de l'incubateur des ministères sociaux</title>
-      <updated>Wed Jan 16 2019 10:09:16 GMT+0000 (Coordinated Universal Time)</updated>
+      <updated>Wed Jan 16 2019 17:32:06 GMT+0000 (Coordinated Universal Time)</updated>
       <channel>
         <title>L'actu de l'incubateur des ministères sociaux</title>
         <link>https://incubateur.social.gouv.fr/actus</link>
         <description>L'incubateur des ministères sociaux...</description>
         <language>fr</language>
         
+  <item>
+    <title>Une année qui démarre bien !</title>
+    <pubDate>16 janvier 2018</pubDate>
+    <link>https://incubateur.social.gouv.fr/actus#16 janvier 2018</link>
+    <description><![CDATA[
+    Bonjour à tous !
+<br/><br/>
+L'équipe WorkinFrance vous souhaite une très belle année 2019, riche en projets personnels et professionnels !
+<br/><br/>
+Le projet commence à s'installer durablement et nous avons désormais 4 nouveaux départements ouverts pour vos demandes d'autorisation de travail !
+WorkinFrance est désormais ouvert pour les démarches d'autorisation de travail des étudiants qui résident dans : 
+<br/>- Les Bouches-du-Rhône (13)
+<br/>- La Seine-et-Marne (77)
+<br/>- Les Hauts-de-Seine (92)
+<br/>- Le Val d'Oise (95)
+<br/><br/>
+Les conditions d'éligibilité n'ont pas changé, à savoir la demande et la délivrance d'autorisations de travail dématérialisées pour :
+<br/>- les étudiants en contrat d'apprentissage,
+<br/>- les étudiants en contrat de professionnalisation,
+<br/>- les étudiants en formation doctorale,
+<br/>- les étudiants algériens soumis à l'accord franco-algérien du 27 décembre 1968
+<br/><br/>
+Si vous avez des connaissances à Marseille, Cergy-Pontoise, Melun, Nanterre et les communes environnantes de ces quatre départements, on vous invite à faire passer le message, les équipes des services de main d'oeuvre étrangère (SMOE) sont prêtes à traîter vos demandes en lignes :)
+<br/><br/>
+Désormais, vous pouvez faire votre démarche sur https://workinfrance.beta.gouv.fr/
+dès lors que l'adresse figurant sur le document de séjour en cours de validité est située à Paris (75), le Rhône (69), le Loiret (45), la Seine-et-Marne (77), les Bouches-du-Rhône (13), les Hauts-de-Seine (92) ou le Val d'Oise (95)
+<br/><br/>
+A bientôt pour d'autres bonnes nouvelles ;)
+
+    ]]></description>
+  </item>
+  
+
   <item>
     <title>release 1.5 - Balinese Rose Lion</title>
     <pubDate>5 Décembre 2018</pubDate>
