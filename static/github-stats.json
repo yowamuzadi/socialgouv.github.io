@@ -1,5 +1,7 @@
-TypeError: Cannot read property 'contributors' of undefined
-    at reposStats.map.repo (/home/travis/build/SocialGouv/socialgouv.github.io/scripts/github-stats.js:48:41)
-    at Array.map (<anonymous>)
-    at parseRepos (/home/travis/build/SocialGouv/socialgouv.github.io/scripts/github-stats.js:48:24)
-    at process._tickCallback (internal/process/next_tick.js:68:7)
+{
+  "count": 36,
+  "issues": 171,
+  "size": 238454,
+  "commits": 4135,
+  "contributors": 27
+}
