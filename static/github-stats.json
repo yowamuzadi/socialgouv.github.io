@@ -1,5 +1,7 @@
-TypeError: Cannot read property 'commits' of undefined
-    at commits.reposStats.map.repo (/home/travis/build/SocialGouv/socialgouv.github.io/scripts/github-stats.js:55:46)
-    at Array.map (<anonymous>)
-    at parseRepos (/home/travis/build/SocialGouv/socialgouv.github.io/scripts/github-stats.js:55:29)
-    at process._tickCallback (internal/process/next_tick.js:68:7)
+{
+  "count": 35,
+  "issues": 174,
+  "size": 240935,
+  "commits": 3522,
+  "contributors": 27
+}
