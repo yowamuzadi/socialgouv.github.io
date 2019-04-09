@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0">
       <title>L'actu de l'incubateur des ministères sociaux</title>
-      <updated>Mon Apr 08 2019 15:45:28 GMT+0000 (Coordinated Universal Time)</updated>
+      <updated>Tue Apr 09 2019 13:15:46 GMT+0000 (Coordinated Universal Time)</updated>
       <channel>
         <title>L'actu de l'incubateur des ministères sociaux</title>
         <link>https://incubateur.social.gouv.fr/actus</link>
@@ -9,16 +9,24 @@
         <language>fr</language>
         
   <item>
+    <title>Premier petit séminaire de l'incubateur</title>
+    <pubDate>22 janvier 2019</pubDate>
+    <link>https://incubateur.social.gouv.fr/actus#22 janvier 2019</link>
+    <description><![CDATA[undefined]]></description>
+  </item>
+  
+
+  <item>
     <title>Une année qui démarre bien !</title>
-    <pubDate>16 janvier 2018</pubDate>
-    <link>https://incubateur.social.gouv.fr/actus#16 janvier 2018</link>
+    <pubDate>16 janvier 2019</pubDate>
+    <link>https://incubateur.social.gouv.fr/actus#16 janvier 2019</link>
     <description><![CDATA[
     Bonjour à tous !
 <br/><br/>
 L'équipe WorkinFrance vous souhaite une très belle année 2019, riche en projets personnels et professionnels !
 <br/><br/>
 Le projet commence à s'installer durablement et nous avons désormais 4 nouveaux départements ouverts pour vos demandes d'autorisation de travail !
-WorkinFrance est désormais ouvert pour les démarches d'autorisation de travail des étudiants qui résident dans : 
+WorkinFrance est désormais ouvert pour les démarches d'autorisation de travail des étudiants qui résident dans :
 <br/>- Les Bouches-du-Rhône (13)
 <br/>- La Seine-et-Marne (77)
 <br/>- Les Hauts-de-Seine (92)
@@ -76,8 +84,8 @@ A bientôt pour d'autres bonnes nouvelles ;)
     <br/>
     <br/>L’équipe, qui a pour objectif de rendre ce produit national, continue sur sa lancée avec la tenue prochaine d’un OpenLab le 13 décembre. Elle compte récolter les avis des usagers et réfléchir aux futures améliorations et développements à apporter afin de rendre e-MJPM pertinent et efficace pour tous.
     <br/>
-    <p align="center"> 
-    Regardez la vidéo de présentation d’e-MJPM : 
+    <p align="center">
+    Regardez la vidéo de présentation d’e-MJPM :
     <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x6z9qkc" allowfullscreen allow="autoplay"></iframe>
     </p>
     ]]></description>
