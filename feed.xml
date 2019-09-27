@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0">
       <title>L'actu de l'incubateur des ministères sociaux</title>
-      <updated>Fri Sep 27 2019 14:00:18 GMT+0000 (Coordinated Universal Time)</updated>
+      <updated>Fri Sep 27 2019 14:38:05 GMT+0000 (Coordinated Universal Time)</updated>
       <channel>
         <title>L'actu de l'incubateur des ministères sociaux</title>
         <link>https://incubateur.social.gouv.fr/actus</link>
         <description>L'incubateur des ministères sociaux...</description>
         <language>fr</language>
         
+  <item>
+    <title>Livraison v-3.2.0 Fuschia Eagle</title>
+    <pubDate>23 Septembre 2019</pubDate>
+    <link>https://incubateur.social.gouv.fr/startups/code-du-travail-numerique/release-v3.2.0</link>
+    <description><![CDATA[Livraison de la version v3.2.0 Fuschia Eagle du Code du travail numérique]]></description>
+  </item>
+  
+
   <item>
     <title>Premier petit séminaire de l'incubateur</title>
     <pubDate>22 janvier 2019</pubDate>
